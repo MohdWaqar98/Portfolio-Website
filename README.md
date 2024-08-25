@@ -8,6 +8,9 @@ A clean and responsive personal portfolio website built using **HTML**, **CSS**,
 - **Smooth Animations**: Engaging transitions and animations for a better user experience.
 - **Project Showcase**: Organized sections to highlight my work.
 
+## 🌐 Live Demo
+[Check out the live demo here!](https://waqargoku.netlify.app/)
+
 ## 🚀 Getting Started
 
 To view and run this project locally:
@@ -18,16 +21,15 @@ To view and run this project locally:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MohdWaqar98/your-repo-name.git
    ```
 2. Open the project in VS Code:
    ```bash
-   cd your-repo-name
+   cd Portfolio-Website
    code .
    ```
 3. Right-click on the `index.html` file and select **Open with Live Server**.
 4. Your portfolio website should now be running on `localhost`!
-
 
 ## 🛠️ Technologies Used
 - HTML
